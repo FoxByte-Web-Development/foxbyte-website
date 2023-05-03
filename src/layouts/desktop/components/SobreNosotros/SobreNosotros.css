@@ -1,0 +1,13 @@
+h1 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300px;
+  font-size: 56px;
+  line-height: 84px;
+
+  color: #212121;
+}
+
+.centering {
+  text-align: center;
+}
