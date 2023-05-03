@@ -4,7 +4,8 @@ const SobreNosotros = () => {
   return (
     <div>
       <div className="centering">
-        <h1>SOBRE NOSOTROS</h1>
+        <p className="title">SOBRE NOSOTROS</p>
+        <div></div>
       </div>
     </div>
   );
